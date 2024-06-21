@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DiegoFariasDF/react/static/css/main.d5cb59e7.css",
+    "main.js": "/DiegoFariasDF/react/static/js/main.5e1e5806.js",
+    "static/js/453.22e8eda5.chunk.js": "/DiegoFariasDF/react/static/js/453.22e8eda5.chunk.js",
+    "static/media/global-temp1.png": "/DiegoFariasDF/react/static/media/global-temp1.1e9179234521914274c6.png",
+    "static/media/calculadora.png": "/DiegoFariasDF/react/static/media/calculadora.253f2d93ff2945376e55.png",
+    "static/media/prof.png": "/DiegoFariasDF/react/static/media/prof.1de76b5d7c41df671577.png",
+    "static/media/portfolio.png": "/DiegoFariasDF/react/static/media/portfolio.7d3c7b939514b91c2e33.png",
+    "static/media/toplogo-transformed.png": "/DiegoFariasDF/react/static/media/toplogo-transformed.2f11af3eed8e9e5f66c6.png",
+    "static/media/indr28.png": "/DiegoFariasDF/react/static/media/indr28.4fcd9d446bd32c25b670.png",
+    "static/media/toplogo-transformed2.png": "/DiegoFariasDF/react/static/media/toplogo-transformed2.03b5eddeeb0ae2f31102.png",
+    "static/media/diegopicture1.jpg": "/DiegoFariasDF/react/static/media/diegopicture1.c2ff32578f66fb0750e3.jpg",
+    "static/media/linkedin-logo.png": "/DiegoFariasDF/react/static/media/linkedin-logo.ab7644f18965cdeea483.png",
+    "static/media/note1.png": "/DiegoFariasDF/react/static/media/note1.02c7487334110685b15d.png",
+    "static/media/logo.svg": "/DiegoFariasDF/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DiegoFariasDF/react/index.html",
+    "main.d5cb59e7.css.map": "/DiegoFariasDF/react/static/css/main.d5cb59e7.css.map",
+    "main.5e1e5806.js.map": "/DiegoFariasDF/react/static/js/main.5e1e5806.js.map",
+    "453.22e8eda5.chunk.js.map": "/DiegoFariasDF/react/static/js/453.22e8eda5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5cb59e7.css",
+    "static/js/main.5e1e5806.js"
+  ]
+}
