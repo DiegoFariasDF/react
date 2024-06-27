@@ -18,9 +18,7 @@ function App() {
 <Projetos />
 <Form />
 <Rodape />
-
 </div>
-
   );
 }
 
